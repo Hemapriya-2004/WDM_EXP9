@@ -36,6 +36,8 @@ Reg no:212221230036
 ![image](https://github.com/Hemapriya-2004/WDM_EXP9/assets/94184828/417d826d-fdbc-4873-b987-f470f7e69015)
 
 ![image](https://github.com/Hemapriya-2004/WDM_EXP9/assets/94184828/a6b97a45-7c5b-4f18-a9db-3e8befe24099)
+
+
 ```
 ### Result:
 Thus the implement preprocessing technique on Twitter Data using Rapidminer is executed successful.
