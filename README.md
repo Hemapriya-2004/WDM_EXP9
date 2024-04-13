@@ -1,5 +1,5 @@
 ### EX9 Preprocessing on Twitter Data using Rapidminer
-### DATE: 
+### DATE: 13-04-2024
 ### AIM: To implement preprocessing technique on Twitter Data using Rapidminer
 ### Description: 
 <div align = "justify">
@@ -26,5 +26,15 @@ for this purpose.
 
 
 ### Output:
+Name:R Hemapriya
+Reg no:212221230036
+
+
+![image](https://github.com/Hemapriya-2004/WDM_EXP9/assets/94184828/2a090744-1e2c-48d9-8f12-c44e1faef028)
+
+![image](https://github.com/Hemapriya-2004/WDM_EXP9/assets/94184828/417d826d-fdbc-4873-b987-f470f7e69015)
+
+![image](https://github.com/Hemapriya-2004/WDM_EXP9/assets/94184828/a6b97a45-7c5b-4f18-a9db-3e8befe24099)
 
 ### Result:
+Thus the implement preprocessing technique on Twitter Data using Rapidminer is executed successful.
